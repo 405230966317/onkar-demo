@@ -1,3 +1,4 @@
 # onkar-demo
 This is a demo repository
-Auhor - Onkar Akirke
+<br>
+<h3>Auhor - Onkar Akirke</h3>
